@@ -10,6 +10,7 @@ namespace Practica02
     {
         static void Main(string[] args)
         {
+            Console.Write("Que raro");
         }
     }
 }
